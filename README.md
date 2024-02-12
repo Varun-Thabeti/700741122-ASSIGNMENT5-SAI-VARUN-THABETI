@@ -1,4 +1,6 @@
 # 700741122-ASSIGNMENT5-SAI-VARUN-THABETI
+
+Link for the recording: https://drive.google.com/file/d/16DKCEuP889meybNYYHW2f17n_gP00g_z/view?usp=drive_link
 Use train_test_split to create training and testing part
 Evaluate the model on test part using score and
 classification_report(y_true, y_pred)
